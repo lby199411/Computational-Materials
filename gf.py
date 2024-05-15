@@ -1,4 +1,4 @@
-#!/hpcgpfs01/ic2software/anaconda/2023.07/bin/python
+#!~/bin/python
 import numpy as np
 from tabulate import tabulate
 def WriteForce(outdata):
